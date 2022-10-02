@@ -1,0 +1,241 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    body{
+        background-image: url(/img/007\ Sunny\ Morning.png);
+        background-size: initial;
+        padding: 30px;
+    }
+    header{
+        background-color: aliceblue;
+        width: 300px;
+        text-align: center;
+        border-radius: 15px;
+        margin: auto;
+        padding: 5px;
+       
+    }
+    header h1{
+        font-weight: bold;
+        font-family: 'Bungee Spice', cursive;
+        font-size: 30px;
+    }
+    header ul{
+       padding: 20px;
+     }
+    header ul li{
+        margin: 0px;
+        list-style: none;
+        background-color:#F8C170;
+        width: 190px;
+        padding: 10px;
+       margin: auto auto 10px;
+        border-radius: 50px;
+        font-size: 30px;
+       
+       
+     }
+    header ul li a{
+       text-decoration: none;
+       color: #000;
+       font-family: 'Tajawal', sans-serif;
+     }
+     header ul li a:hover{
+        text-decoration: none;
+        color: aliceblue;
+      }
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    body{
+        background-image: url(/img/007\ Sunny\ Morning.png);
+        background-size: initial;
+       padding: 30px;
+    }
+    header{
+        background-color: aliceblue;
+        width: 300px;
+        text-align: center;
+        border-radius: 15px;
+        margin: auto;
+        padding: 5px;
+       
+    }
+    header h1{
+        font-weight: bold;
+        font-family: 'Bungee Spice', cursive;
+        font-size: 30px;
+    }
+    header ul{
+        padding: 20px;
+      }
+     header ul li{
+         margin: 0px;
+         list-style: none;
+         background-color:#F8C170;
+         width: 200px;
+         padding: 10px;
+        margin: auto auto 10px;
+         border-radius: 50px;
+         font-size: 30px;
+        
+        
+      }
+    header ul li a{
+       text-decoration: none;
+       color: #000;
+       font-family: 'Tajawal', sans-serif;
+     }
+     header ul li a:hover{
+        text-decoration: none;
+        color: aliceblue;
+      }
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    body{
+        background-image: url(/img/007\ Sunny\ Morning.png);
+        background-size: initial;
+       padding: 30px;
+    }
+    
+    header{
+        background-color: aliceblue;
+        width: 500px;
+        text-align: center;
+        border-radius: 15px;
+        margin: auto;
+        padding: 10px;
+       
+    }
+    header h1{
+        font-weight: bold;
+        font-family: 'Bungee Spice', cursive;
+    }
+    header ul{
+        padding: 20px;
+      }
+     header ul li{
+         margin: 0px;
+         list-style: none;
+         background-color:#F8C170;
+         width: 200px;
+         padding: 10px;
+        margin: auto auto 10px;
+         border-radius: 50px;
+         font-size: 30px;
+        
+        
+      }
+    header ul li a{
+       text-decoration: none;
+       color: #000;
+       font-family: 'Tajawal', sans-serif;
+     }
+     header ul li a:hover{
+        text-decoration: none;
+        color: aliceblue;
+      }
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    body{
+        background-image: url(/img/007\ Sunny\ Morning.png);
+        background-size: initial;
+       padding: 30px;
+    }
+    
+    header{
+        background-color: aliceblue;
+        width: 500px;
+        text-align: center;
+        border-radius: 15px;
+        margin: auto;
+        padding: 10px;
+       
+    }
+    header h1{
+        font-weight: bold;
+        font-family: 'Bungee Spice', cursive;
+    }
+    header ul{
+        padding: 20px;
+      }
+     header ul li{
+         margin: 0px;
+         list-style: none;
+         background-color:#F8C170;
+         width: 200px;
+         padding: 10px;
+        margin: auto auto 10px;
+         border-radius: 50px;
+         font-size: 30px;
+        
+        
+      }
+    header ul li a{
+       text-decoration: none;
+       color: #000;
+       font-family: 'Tajawal', sans-serif;
+     }
+     header ul li a:hover{
+        text-decoration: none;
+        color: aliceblue;
+      }
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    body{
+        background-image: url(/img/007\ Sunny\ Morning.png);
+        background-size: initial;
+       padding: 30px;
+    }
+    
+    header{
+        background-color: aliceblue;
+        width: 500px;
+        text-align: center;
+        border-radius: 15px;
+        margin: auto;
+        padding: 10px;
+       
+    }
+    header h1{
+        font-weight: bold;
+        font-family: 'Bungee Spice', cursive;
+    }
+    header ul{
+        padding: 50px;
+      }
+     header ul li{
+         margin: 0px;
+         list-style: none;
+         background-color:#F8C170;
+         width: 200px;
+        margin: auto auto 10px;
+        padding: 10px;
+         border-radius: 50px;
+         font-size: 30px;
+        
+        
+      }
+    header ul li a{
+       text-decoration: none;
+       color: #000;
+       font-family: 'Tajawal', sans-serif;
+     }
+     header ul li a:hover{
+        text-decoration: none;
+        color: aliceblue;
+      }
+ }
+ div{
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+ }
