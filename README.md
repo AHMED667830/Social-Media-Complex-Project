@@ -9,6 +9,7 @@ Snapchat, Instagram etc...
 
 The project link shown to you is for preview and experimentation only
 
+Also, the site is in Arabic so you can see the translation work perfectly
 
 ## Languages ​​used
 
